@@ -21,4 +21,10 @@ It leverages advanced data processing techniques and algorithms for image classi
 ## Installation
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/acaballeha/VegetablesClassifier.git)
+   git clone https://github.com/acaballeha/VegetablesClassifier.git
+
+## Use
+
+1. With python:
+```bash
+   python3 vegetablesAPP.py
